@@ -128,6 +128,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(370,1690)" to="(370,1700)"/>
     <wire from="(1200,1240)" to="(1200,1270)"/>
     <wire from="(430,1390)" to="(430,1400)"/>
+    <wire from="(680,1910)" to="(680,1980)"/>
     <wire from="(50,1250)" to="(100,1250)"/>
     <wire from="(1180,1280)" to="(1180,1410)"/>
     <wire from="(670,1180)" to="(670,1270)"/>
@@ -141,6 +142,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(650,1640)" to="(760,1640)"/>
     <wire from="(760,1240)" to="(760,1260)"/>
     <wire from="(30,1300)" to="(30,1390)"/>
+    <wire from="(650,1850)" to="(650,1870)"/>
     <wire from="(90,1390)" to="(120,1390)"/>
     <wire from="(790,1300)" to="(810,1300)"/>
     <wire from="(710,830)" to="(710,870)"/>
@@ -148,11 +150,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(390,890)" to="(420,890)"/>
     <wire from="(1160,1300)" to="(1160,1480)"/>
     <wire from="(710,1300)" to="(730,1300)"/>
+    <wire from="(680,1910)" to="(700,1910)"/>
     <wire from="(310,1380)" to="(330,1380)"/>
     <wire from="(930,1670)" to="(960,1670)"/>
     <wire from="(1160,1300)" to="(1190,1300)"/>
     <wire from="(880,1240)" to="(880,1300)"/>
     <wire from="(1100,1340)" to="(1100,1380)"/>
+    <wire from="(620,1880)" to="(700,1880)"/>
     <wire from="(330,1350)" to="(460,1350)"/>
     <wire from="(930,1570)" to="(930,1620)"/>
     <wire from="(730,890)" to="(740,890)"/>
@@ -172,6 +176,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(840,1160)" to="(840,1270)"/>
     <wire from="(70,1260)" to="(100,1260)"/>
     <wire from="(360,870)" to="(390,870)"/>
+    <wire from="(670,1900)" to="(700,1900)"/>
     <wire from="(840,1620)" to="(930,1620)"/>
     <wire from="(310,1240)" to="(460,1240)"/>
     <wire from="(320,1300)" to="(460,1300)"/>
@@ -182,10 +187,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(310,1820)" to="(390,1820)"/>
     <wire from="(330,1760)" to="(410,1760)"/>
     <wire from="(300,1740)" to="(300,1860)"/>
+    <wire from="(650,1870)" to="(700,1870)"/>
     <wire from="(440,900)" to="(490,900)"/>
     <wire from="(310,1390)" to="(430,1390)"/>
     <wire from="(290,1890)" to="(410,1890)"/>
     <wire from="(160,1660)" to="(210,1660)"/>
+    <wire from="(660,1890)" to="(700,1890)"/>
+    <wire from="(630,1940)" to="(670,1940)"/>
     <wire from="(970,1320)" to="(1010,1320)"/>
     <wire from="(880,1410)" to="(1180,1410)"/>
     <wire from="(330,1350)" to="(330,1380)"/>
@@ -195,6 +203,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(800,1740)" to="(800,1780)"/>
     <wire from="(1180,1280)" to="(1190,1280)"/>
     <wire from="(690,1300)" to="(710,1300)"/>
+    <wire from="(630,1910)" to="(660,1910)"/>
     <wire from="(310,1400)" to="(330,1400)"/>
     <wire from="(600,1610)" to="(760,1610)"/>
     <wire from="(840,1670)" to="(930,1670)"/>
@@ -215,11 +224,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(260,1680)" to="(320,1680)"/>
     <wire from="(260,1720)" to="(320,1720)"/>
     <wire from="(320,1300)" to="(320,1370)"/>
+    <wire from="(630,1980)" to="(680,1980)"/>
     <wire from="(160,910)" to="(160,920)"/>
     <wire from="(970,1230)" to="(970,1300)"/>
     <wire from="(260,1730)" to="(310,1730)"/>
     <wire from="(320,1670)" to="(320,1680)"/>
     <wire from="(970,1320)" to="(970,1350)"/>
+    <wire from="(610,1850)" to="(650,1850)"/>
     <wire from="(830,1100)" to="(830,1130)"/>
     <wire from="(740,890)" to="(740,920)"/>
     <wire from="(70,1260)" to="(70,1280)"/>
@@ -233,16 +244,18 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(180,850)" to="(180,880)"/>
     <wire from="(930,1670)" to="(930,1750)"/>
     <wire from="(530,900)" to="(700,900)"/>
+    <wire from="(660,1890)" to="(660,1910)"/>
     <wire from="(310,1410)" to="(310,1500)"/>
     <wire from="(310,1730)" to="(310,1820)"/>
     <wire from="(260,1700)" to="(350,1700)"/>
     <wire from="(300,1860)" to="(390,1860)"/>
     <wire from="(880,1300)" to="(880,1410)"/>
     <wire from="(70,1240)" to="(100,1240)"/>
+    <wire from="(670,1900)" to="(670,1940)"/>
     <wire from="(1150,1300)" to="(1160,1300)"/>
     <wire from="(430,1400)" to="(460,1400)"/>
-    <wire from="(260,1390)" to="(290,1390)"/>
     <wire from="(260,1750)" to="(290,1750)"/>
+    <wire from="(260,1390)" to="(290,1390)"/>
     <wire from="(600,1580)" to="(760,1580)"/>
     <wire from="(70,1340)" to="(70,1380)"/>
     <wire from="(930,1620)" to="(960,1620)"/>
@@ -296,6 +309,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="east"/>
       <a name="width" val="6"/>
       <a name="label" val="26-31"/>
+      <a name="labelfont" val="SansSerif plain 11"/>
+    </comp>
+    <comp lib="0" loc="(630,1940)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="label" val="16-20"/>
       <a name="labelfont" val="SansSerif plain 11"/>
     </comp>
     <comp lib="0" loc="(460,1240)" name="Tunnel">
@@ -364,6 +383,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="radix" val="10unsigned"/>
       <a name="label" val="PC"/>
     </comp>
+    <comp lib="0" loc="(610,1850)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="6"/>
+      <a name="label" val="0-5"/>
+      <a name="labelfont" val="SansSerif plain 11"/>
+    </comp>
     <comp lib="6" loc="(642,1246)" name="Text">
       <a name="text" val="sourceReg 21-25"/>
       <a name="font" val="SansSerif plain 8"/>
@@ -376,6 +401,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(960,1620)" name="Tunnel">
       <a name="width" val="32"/>
       <a name="label" val="RdData1"/>
+      <a name="labelfont" val="SansSerif plain 11"/>
+    </comp>
+    <comp lib="0" loc="(620,1880)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="label" val="6-10"/>
       <a name="labelfont" val="SansSerif plain 11"/>
     </comp>
     <comp lib="0" loc="(180,850)" name="Tunnel">
@@ -457,6 +488,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="6" loc="(132,1693)" name="Text">
       <a name="text" val="r_func"/>
     </comp>
+    <comp lib="0" loc="(630,1910)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="label" val="11-15"/>
+      <a name="labelfont" val="SansSerif plain 11"/>
+    </comp>
     <comp lib="0" loc="(180,1880)" name="Tunnel">
       <a name="width" val="4"/>
       <a name="label" val="ALUCtrl"/>
@@ -514,6 +551,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(530,900)" name="Bit Extender">
       <a name="in_width" val="16"/>
       <a name="out_width" val="32"/>
+      <a name="type" val="sign"/>
+    </comp>
+    <comp lib="0" loc="(1140,1930)" name="Tunnel">
+      <a name="label" val="jump"/>
+      <a name="labelfont" val="SansSerif plain 11"/>
     </comp>
     <comp lib="0" loc="(830,190)" name="Probe">
       <a name="facing" val="west"/>
@@ -529,6 +571,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="labelfont" val="SansSerif plain 11"/>
     </comp>
     <comp loc="(730,1260)" name="ALU"/>
+    <comp lib="0" loc="(630,1980)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="label" val="21-25"/>
+      <a name="labelfont" val="SansSerif plain 11"/>
+    </comp>
     <comp lib="0" loc="(650,1690)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="5"/>
@@ -789,6 +837,37 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="label" val="RdData2"/>
       <a name="labelfont" val="SansSerif plain 11"/>
+    </comp>
+    <comp lib="0" loc="(720,1890)" name="Splitter">
+      <a name="facing" val="west"/>
+      <a name="fanout" val="5"/>
+      <a name="incoming" val="26"/>
+      <a name="appear" val="center"/>
+      <a name="bit1" val="0"/>
+      <a name="bit2" val="0"/>
+      <a name="bit3" val="0"/>
+      <a name="bit4" val="0"/>
+      <a name="bit5" val="0"/>
+      <a name="bit6" val="1"/>
+      <a name="bit7" val="1"/>
+      <a name="bit8" val="1"/>
+      <a name="bit9" val="1"/>
+      <a name="bit10" val="1"/>
+      <a name="bit11" val="2"/>
+      <a name="bit12" val="2"/>
+      <a name="bit13" val="2"/>
+      <a name="bit14" val="2"/>
+      <a name="bit15" val="2"/>
+      <a name="bit16" val="3"/>
+      <a name="bit17" val="3"/>
+      <a name="bit18" val="3"/>
+      <a name="bit19" val="3"/>
+      <a name="bit20" val="3"/>
+      <a name="bit21" val="4"/>
+      <a name="bit22" val="4"/>
+      <a name="bit23" val="4"/>
+      <a name="bit24" val="4"/>
+      <a name="bit25" val="4"/>
     </comp>
     <comp lib="0" loc="(830,120)" name="Probe">
       <a name="facing" val="west"/>
@@ -3657,43 +3736,28 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
     <wire from="(510,140)" to="(540,140)"/>
+    <wire from="(600,130)" to="(620,130)"/>
     <wire from="(100,70)" to="(100,110)"/>
     <wire from="(380,150)" to="(400,150)"/>
-    <wire from="(330,120)" to="(540,120)"/>
+    <wire from="(230,120)" to="(540,120)"/>
+    <wire from="(570,130)" to="(600,130)"/>
     <wire from="(100,110)" to="(120,110)"/>
-    <wire from="(590,130)" to="(650,130)"/>
     <wire from="(510,140)" to="(510,150)"/>
+    <wire from="(100,70)" to="(600,70)"/>
+    <wire from="(600,70)" to="(600,130)"/>
     <wire from="(210,140)" to="(210,160)"/>
-    <wire from="(330,70)" to="(330,120)"/>
     <wire from="(80,130)" to="(120,130)"/>
     <wire from="(160,120)" to="(200,120)"/>
-    <wire from="(100,70)" to="(330,70)"/>
     <wire from="(440,150)" to="(510,150)"/>
     <wire from="(550,90)" to="(550,110)"/>
-    <wire from="(230,120)" to="(330,120)"/>
+    <wire from="(640,130)" to="(650,130)"/>
     <comp lib="0" loc="(650,130)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="8"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="3" loc="(160,120)" name="Adder">
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="2" loc="(570,130)" name="Multiplexer">
-      <a name="selloc" val="tr"/>
-      <a name="width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(440,150)" name="Bit Extender">
-      <a name="in_width" val="16"/>
-      <a name="out_width" val="32"/>
-    </comp>
-    <comp lib="0" loc="(550,90)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="BEQ"/>
-    </comp>
-    <comp lib="0" loc="(570,130)" name="Splitter">
+    <comp lib="0" loc="(620,130)" name="Splitter">
       <a name="fanout" val="3"/>
       <a name="incoming" val="32"/>
       <a name="appear" val="center"/>
@@ -3728,6 +3792,22 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="bit29" val="2"/>
       <a name="bit30" val="2"/>
       <a name="bit31" val="2"/>
+    </comp>
+    <comp lib="3" loc="(160,120)" name="Adder">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="2" loc="(570,130)" name="Multiplexer">
+      <a name="selloc" val="tr"/>
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(440,150)" name="Bit Extender">
+      <a name="in_width" val="16"/>
+      <a name="out_width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(550,90)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="BEQ"/>
     </comp>
     <comp lib="0" loc="(80,130)" name="Constant">
       <a name="width" val="32"/>
